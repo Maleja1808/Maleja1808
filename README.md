@@ -1,9 +1,7 @@
 ## Hola soy Alejandra 👋
 
 
-**Maleja1808/Maleja1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🎓 Actualmente soy estudiante universitario, estoy estudiando Bioingenieria 
 - 👯 Me gustaria colaborar para crear nuevos proyectos q solucionen la vida en el planeta
